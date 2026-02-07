@@ -1,0 +1,4 @@
+# Requirements for Python Trivia Game
+# Python 3.6+ recommended
+# Standard library modules used: import random
+# No external packages needed!
